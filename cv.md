@@ -1,7 +1,7 @@
 <h1>My Junior Developer Resume</h1>
 
 1. First Name, Last Name:</br><p>Maxim Tarshin</p>
-2. Contact Info (add several ways to contact you)
+2. Contact Info</br><p>Phone number: +7 915 936 16 51</p><p>E-mail: metarshin@edu.hse.ru</p>
 3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
 Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
 learning new things from everywhere etc.).
